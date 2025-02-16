@@ -1,0 +1,6 @@
+@BooksWebScraper_HostAddress = http://localhost:5122
+
+GET {{BooksWebScraper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
